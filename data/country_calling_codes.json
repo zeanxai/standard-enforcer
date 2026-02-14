@@ -1,0 +1,1790 @@
+[
+  {
+    "countryNameEn": "Afghanistan",
+    "countryNameKo": "아프가니스탄",
+    "alpha2": "AF",
+    "callingCode": "+93",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Åland Islands",
+    "countryNameKo": "올란드 제도",
+    "alpha2": "AX",
+    "callingCode": "+358",
+    "zone": 3,
+    "sharedWith": ["FI"]
+  },
+  {
+    "countryNameEn": "Albania",
+    "countryNameKo": "알바니아",
+    "alpha2": "AL",
+    "callingCode": "+355",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Algeria",
+    "countryNameKo": "알제리",
+    "alpha2": "DZ",
+    "callingCode": "+213",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "American Samoa",
+    "countryNameKo": "미국령 사모아",
+    "alpha2": "AS",
+    "callingCode": "+1-684",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Andorra",
+    "countryNameKo": "안도라",
+    "alpha2": "AD",
+    "callingCode": "+376",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Angola",
+    "countryNameKo": "앙골라",
+    "alpha2": "AO",
+    "callingCode": "+244",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Anguilla",
+    "countryNameKo": "앵귈라",
+    "alpha2": "AI",
+    "callingCode": "+1-264",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Antarctica",
+    "countryNameKo": "남극",
+    "alpha2": "AQ",
+    "callingCode": "+672",
+    "zone": 6,
+    "sharedWith": ["NF"]
+  },
+  {
+    "countryNameEn": "Antigua and Barbuda",
+    "countryNameKo": "앤티가 바부다",
+    "alpha2": "AG",
+    "callingCode": "+1-268",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Argentina",
+    "countryNameKo": "아르헨티나",
+    "alpha2": "AR",
+    "callingCode": "+54",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Armenia",
+    "countryNameKo": "아르메니아",
+    "alpha2": "AM",
+    "callingCode": "+374",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Aruba",
+    "countryNameKo": "아루바",
+    "alpha2": "AW",
+    "callingCode": "+297",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Australia",
+    "countryNameKo": "호주",
+    "alpha2": "AU",
+    "callingCode": "+61",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Austria",
+    "countryNameKo": "오스트리아",
+    "alpha2": "AT",
+    "callingCode": "+43",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Azerbaijan",
+    "countryNameKo": "아제르바이잔",
+    "alpha2": "AZ",
+    "callingCode": "+994",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Bahamas",
+    "countryNameKo": "바하마",
+    "alpha2": "BS",
+    "callingCode": "+1-242",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Bahrain",
+    "countryNameKo": "바레인",
+    "alpha2": "BH",
+    "callingCode": "+973",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Bangladesh",
+    "countryNameKo": "방글라데시",
+    "alpha2": "BD",
+    "callingCode": "+880",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Barbados",
+    "countryNameKo": "바베이도스",
+    "alpha2": "BB",
+    "callingCode": "+1-246",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Belarus",
+    "countryNameKo": "벨라루스",
+    "alpha2": "BY",
+    "callingCode": "+375",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Belgium",
+    "countryNameKo": "벨기에",
+    "alpha2": "BE",
+    "callingCode": "+32",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Belize",
+    "countryNameKo": "벨리즈",
+    "alpha2": "BZ",
+    "callingCode": "+501",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Benin",
+    "countryNameKo": "베냉",
+    "alpha2": "BJ",
+    "callingCode": "+229",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Bermuda",
+    "countryNameKo": "버뮤다",
+    "alpha2": "BM",
+    "callingCode": "+1-441",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Bhutan",
+    "countryNameKo": "부탄",
+    "alpha2": "BT",
+    "callingCode": "+975",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Bolivia",
+    "countryNameKo": "볼리비아",
+    "alpha2": "BO",
+    "callingCode": "+591",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Bonaire, Sint Eustatius and Saba",
+    "countryNameKo": "보네르, 신트외스타티위스, 사바",
+    "alpha2": "BQ",
+    "callingCode": "+599",
+    "zone": 5,
+    "sharedWith": ["CW"]
+  },
+  {
+    "countryNameEn": "Bosnia and Herzegovina",
+    "countryNameKo": "보스니아 헤르체고비나",
+    "alpha2": "BA",
+    "callingCode": "+387",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Botswana",
+    "countryNameKo": "보츠와나",
+    "alpha2": "BW",
+    "callingCode": "+267",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Brazil",
+    "countryNameKo": "브라질",
+    "alpha2": "BR",
+    "callingCode": "+55",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "British Indian Ocean Territory",
+    "countryNameKo": "영국령 인도양 지역",
+    "alpha2": "IO",
+    "callingCode": "+246",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "British Virgin Islands",
+    "countryNameKo": "영국령 버진아일랜드",
+    "alpha2": "VG",
+    "callingCode": "+1-284",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Brunei",
+    "countryNameKo": "브루나이",
+    "alpha2": "BN",
+    "callingCode": "+673",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Bulgaria",
+    "countryNameKo": "불가리아",
+    "alpha2": "BG",
+    "callingCode": "+359",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Burkina Faso",
+    "countryNameKo": "부르키나파소",
+    "alpha2": "BF",
+    "callingCode": "+226",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Burundi",
+    "countryNameKo": "부룬디",
+    "alpha2": "BI",
+    "callingCode": "+257",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Cambodia",
+    "countryNameKo": "캄보디아",
+    "alpha2": "KH",
+    "callingCode": "+855",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Cameroon",
+    "countryNameKo": "카메룬",
+    "alpha2": "CM",
+    "callingCode": "+237",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Canada",
+    "countryNameKo": "캐나다",
+    "alpha2": "CA",
+    "callingCode": "+1",
+    "zone": 1,
+    "sharedWith": ["US"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Cape Verde",
+    "countryNameKo": "카보베르데",
+    "alpha2": "CV",
+    "callingCode": "+238",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Cayman Islands",
+    "countryNameKo": "케이맨 제도",
+    "alpha2": "KY",
+    "callingCode": "+1-345",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Central African Republic",
+    "countryNameKo": "중앙아프리카 공화국",
+    "alpha2": "CF",
+    "callingCode": "+236",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Chad",
+    "countryNameKo": "차드",
+    "alpha2": "TD",
+    "callingCode": "+235",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Chile",
+    "countryNameKo": "칠레",
+    "alpha2": "CL",
+    "callingCode": "+56",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "China",
+    "countryNameKo": "중국",
+    "alpha2": "CN",
+    "callingCode": "+86",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Christmas Island",
+    "countryNameKo": "크리스마스섬",
+    "alpha2": "CX",
+    "callingCode": "+61",
+    "zone": 6,
+    "sharedWith": ["AU", "CC"]
+  },
+  {
+    "countryNameEn": "Cocos (Keeling) Islands",
+    "countryNameKo": "코코스 제도",
+    "alpha2": "CC",
+    "callingCode": "+61",
+    "zone": 6,
+    "sharedWith": ["AU", "CX"]
+  },
+  {
+    "countryNameEn": "Colombia",
+    "countryNameKo": "콜롬비아",
+    "alpha2": "CO",
+    "callingCode": "+57",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Comoros",
+    "countryNameKo": "코모로",
+    "alpha2": "KM",
+    "callingCode": "+269",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Congo (Brazzaville)",
+    "countryNameKo": "콩고 공화국",
+    "alpha2": "CG",
+    "callingCode": "+242",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Congo (Kinshasa)",
+    "countryNameKo": "콩고 민주 공화국",
+    "alpha2": "CD",
+    "callingCode": "+243",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Cook Islands",
+    "countryNameKo": "쿡 제도",
+    "alpha2": "CK",
+    "callingCode": "+682",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Costa Rica",
+    "countryNameKo": "코스타리카",
+    "alpha2": "CR",
+    "callingCode": "+506",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Côte d'Ivoire",
+    "countryNameKo": "코트디부아르",
+    "alpha2": "CI",
+    "callingCode": "+225",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Croatia",
+    "countryNameKo": "크로아티아",
+    "alpha2": "HR",
+    "callingCode": "+385",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Cuba",
+    "countryNameKo": "쿠바",
+    "alpha2": "CU",
+    "callingCode": "+53",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Curaçao",
+    "countryNameKo": "퀴라소",
+    "alpha2": "CW",
+    "callingCode": "+599",
+    "zone": 5,
+    "sharedWith": ["BQ"]
+  },
+  {
+    "countryNameEn": "Cyprus",
+    "countryNameKo": "키프로스",
+    "alpha2": "CY",
+    "callingCode": "+357",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Czech Republic",
+    "countryNameKo": "체코",
+    "alpha2": "CZ",
+    "callingCode": "+420",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Denmark",
+    "countryNameKo": "덴마크",
+    "alpha2": "DK",
+    "callingCode": "+45",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Djibouti",
+    "countryNameKo": "지부티",
+    "alpha2": "DJ",
+    "callingCode": "+253",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Dominica",
+    "countryNameKo": "도미니카",
+    "alpha2": "DM",
+    "callingCode": "+1-767",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Dominican Republic",
+    "countryNameKo": "도미니카 공화국",
+    "alpha2": "DO",
+    "callingCode": "+1-809",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP; also +1-829, +1-849"
+  },
+  {
+    "countryNameEn": "Ecuador",
+    "countryNameKo": "에콰도르",
+    "alpha2": "EC",
+    "callingCode": "+593",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Egypt",
+    "countryNameKo": "이집트",
+    "alpha2": "EG",
+    "callingCode": "+20",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "El Salvador",
+    "countryNameKo": "엘살바도르",
+    "alpha2": "SV",
+    "callingCode": "+503",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Equatorial Guinea",
+    "countryNameKo": "적도 기니",
+    "alpha2": "GQ",
+    "callingCode": "+240",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Eritrea",
+    "countryNameKo": "에리트레아",
+    "alpha2": "ER",
+    "callingCode": "+291",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Estonia",
+    "countryNameKo": "에스토니아",
+    "alpha2": "EE",
+    "callingCode": "+372",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Eswatini",
+    "countryNameKo": "에스와티니",
+    "alpha2": "SZ",
+    "callingCode": "+268",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Ethiopia",
+    "countryNameKo": "에티오피아",
+    "alpha2": "ET",
+    "callingCode": "+251",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Falkland Islands",
+    "countryNameKo": "포클랜드 제도",
+    "alpha2": "FK",
+    "callingCode": "+500",
+    "zone": 5,
+    "sharedWith": ["GS"]
+  },
+  {
+    "countryNameEn": "Faroe Islands",
+    "countryNameKo": "페로 제도",
+    "alpha2": "FO",
+    "callingCode": "+298",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Fiji",
+    "countryNameKo": "피지",
+    "alpha2": "FJ",
+    "callingCode": "+679",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Finland",
+    "countryNameKo": "핀란드",
+    "alpha2": "FI",
+    "callingCode": "+358",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "France",
+    "countryNameKo": "프랑스",
+    "alpha2": "FR",
+    "callingCode": "+33",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "French Guiana",
+    "countryNameKo": "프랑스령 기아나",
+    "alpha2": "GF",
+    "callingCode": "+594",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "French Polynesia",
+    "countryNameKo": "프랑스령 폴리네시아",
+    "alpha2": "PF",
+    "callingCode": "+689",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Gabon",
+    "countryNameKo": "가봉",
+    "alpha2": "GA",
+    "callingCode": "+241",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Gambia",
+    "countryNameKo": "감비아",
+    "alpha2": "GM",
+    "callingCode": "+220",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Georgia",
+    "countryNameKo": "조지아",
+    "alpha2": "GE",
+    "callingCode": "+995",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Germany",
+    "countryNameKo": "독일",
+    "alpha2": "DE",
+    "callingCode": "+49",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Ghana",
+    "countryNameKo": "가나",
+    "alpha2": "GH",
+    "callingCode": "+233",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Gibraltar",
+    "countryNameKo": "지브롤터",
+    "alpha2": "GI",
+    "callingCode": "+350",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Greece",
+    "countryNameKo": "그리스",
+    "alpha2": "GR",
+    "callingCode": "+30",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Greenland",
+    "countryNameKo": "그린란드",
+    "alpha2": "GL",
+    "callingCode": "+299",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Grenada",
+    "countryNameKo": "그레나다",
+    "alpha2": "GD",
+    "callingCode": "+1-473",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Guadeloupe",
+    "countryNameKo": "과들루프",
+    "alpha2": "GP",
+    "callingCode": "+590",
+    "zone": 5,
+    "sharedWith": ["BL", "MF"]
+  },
+  {
+    "countryNameEn": "Guam",
+    "countryNameKo": "괌",
+    "alpha2": "GU",
+    "callingCode": "+1-671",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Guatemala",
+    "countryNameKo": "과테말라",
+    "alpha2": "GT",
+    "callingCode": "+502",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Guernsey",
+    "countryNameKo": "건지",
+    "alpha2": "GG",
+    "callingCode": "+44",
+    "zone": 4,
+    "sharedWith": ["GB", "IM", "JE"]
+  },
+  {
+    "countryNameEn": "Guinea",
+    "countryNameKo": "기니",
+    "alpha2": "GN",
+    "callingCode": "+224",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Guinea-Bissau",
+    "countryNameKo": "기니비사우",
+    "alpha2": "GW",
+    "callingCode": "+245",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Guyana",
+    "countryNameKo": "가이아나",
+    "alpha2": "GY",
+    "callingCode": "+592",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Haiti",
+    "countryNameKo": "아이티",
+    "alpha2": "HT",
+    "callingCode": "+509",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Honduras",
+    "countryNameKo": "온두라스",
+    "alpha2": "HN",
+    "callingCode": "+504",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Hong Kong",
+    "countryNameKo": "홍콩",
+    "alpha2": "HK",
+    "callingCode": "+852",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Hungary",
+    "countryNameKo": "헝가리",
+    "alpha2": "HU",
+    "callingCode": "+36",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Iceland",
+    "countryNameKo": "아이슬란드",
+    "alpha2": "IS",
+    "callingCode": "+354",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "India",
+    "countryNameKo": "인도",
+    "alpha2": "IN",
+    "callingCode": "+91",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Indonesia",
+    "countryNameKo": "인도네시아",
+    "alpha2": "ID",
+    "callingCode": "+62",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Iran",
+    "countryNameKo": "이란",
+    "alpha2": "IR",
+    "callingCode": "+98",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Iraq",
+    "countryNameKo": "이라크",
+    "alpha2": "IQ",
+    "callingCode": "+964",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Ireland",
+    "countryNameKo": "아일랜드",
+    "alpha2": "IE",
+    "callingCode": "+353",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Isle of Man",
+    "countryNameKo": "맨섬",
+    "alpha2": "IM",
+    "callingCode": "+44",
+    "zone": 4,
+    "sharedWith": ["GB", "GG", "JE"]
+  },
+  {
+    "countryNameEn": "Israel",
+    "countryNameKo": "이스라엘",
+    "alpha2": "IL",
+    "callingCode": "+972",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Italy",
+    "countryNameKo": "이탈리아",
+    "alpha2": "IT",
+    "callingCode": "+39",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Jamaica",
+    "countryNameKo": "자메이카",
+    "alpha2": "JM",
+    "callingCode": "+1-876",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Japan",
+    "countryNameKo": "일본",
+    "alpha2": "JP",
+    "callingCode": "+81",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Jersey",
+    "countryNameKo": "저지",
+    "alpha2": "JE",
+    "callingCode": "+44",
+    "zone": 4,
+    "sharedWith": ["GB", "GG", "IM"]
+  },
+  {
+    "countryNameEn": "Jordan",
+    "countryNameKo": "요르단",
+    "alpha2": "JO",
+    "callingCode": "+962",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Kazakhstan",
+    "countryNameKo": "카자흐스탄",
+    "alpha2": "KZ",
+    "callingCode": "+7",
+    "zone": 7,
+    "sharedWith": ["RU"],
+    "notes": "Uses 7-6xx and 7-7xx prefixes"
+  },
+  {
+    "countryNameEn": "Kenya",
+    "countryNameKo": "케냐",
+    "alpha2": "KE",
+    "callingCode": "+254",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Kiribati",
+    "countryNameKo": "키리바시",
+    "alpha2": "KI",
+    "callingCode": "+686",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "North Korea",
+    "countryNameKo": "북한",
+    "alpha2": "KP",
+    "callingCode": "+850",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "South Korea",
+    "countryNameKo": "대한민국",
+    "alpha2": "KR",
+    "callingCode": "+82",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Kosovo",
+    "countryNameKo": "코소보",
+    "alpha2": "XK",
+    "callingCode": "+383",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Kuwait",
+    "countryNameKo": "쿠웨이트",
+    "alpha2": "KW",
+    "callingCode": "+965",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Kyrgyzstan",
+    "countryNameKo": "키르기스스탄",
+    "alpha2": "KG",
+    "callingCode": "+996",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Laos",
+    "countryNameKo": "라오스",
+    "alpha2": "LA",
+    "callingCode": "+856",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Latvia",
+    "countryNameKo": "라트비아",
+    "alpha2": "LV",
+    "callingCode": "+371",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Lebanon",
+    "countryNameKo": "레바논",
+    "alpha2": "LB",
+    "callingCode": "+961",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Lesotho",
+    "countryNameKo": "레소토",
+    "alpha2": "LS",
+    "callingCode": "+266",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Liberia",
+    "countryNameKo": "라이베리아",
+    "alpha2": "LR",
+    "callingCode": "+231",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Libya",
+    "countryNameKo": "리비아",
+    "alpha2": "LY",
+    "callingCode": "+218",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Liechtenstein",
+    "countryNameKo": "리히텐슈타인",
+    "alpha2": "LI",
+    "callingCode": "+423",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Lithuania",
+    "countryNameKo": "리투아니아",
+    "alpha2": "LT",
+    "callingCode": "+370",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Luxembourg",
+    "countryNameKo": "룩셈부르크",
+    "alpha2": "LU",
+    "callingCode": "+352",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Macao",
+    "countryNameKo": "마카오",
+    "alpha2": "MO",
+    "callingCode": "+853",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Madagascar",
+    "countryNameKo": "마다가스카르",
+    "alpha2": "MG",
+    "callingCode": "+261",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Malawi",
+    "countryNameKo": "말라위",
+    "alpha2": "MW",
+    "callingCode": "+265",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Malaysia",
+    "countryNameKo": "말레이시아",
+    "alpha2": "MY",
+    "callingCode": "+60",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Maldives",
+    "countryNameKo": "몰디브",
+    "alpha2": "MV",
+    "callingCode": "+960",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Mali",
+    "countryNameKo": "말리",
+    "alpha2": "ML",
+    "callingCode": "+223",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Malta",
+    "countryNameKo": "몰타",
+    "alpha2": "MT",
+    "callingCode": "+356",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Marshall Islands",
+    "countryNameKo": "마셜 제도",
+    "alpha2": "MH",
+    "callingCode": "+692",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Martinique",
+    "countryNameKo": "마르티니크",
+    "alpha2": "MQ",
+    "callingCode": "+596",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Mauritania",
+    "countryNameKo": "모리타니",
+    "alpha2": "MR",
+    "callingCode": "+222",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Mauritius",
+    "countryNameKo": "모리셔스",
+    "alpha2": "MU",
+    "callingCode": "+230",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Mayotte",
+    "countryNameKo": "마요트",
+    "alpha2": "YT",
+    "callingCode": "+262",
+    "zone": 2,
+    "sharedWith": ["RE"]
+  },
+  {
+    "countryNameEn": "Mexico",
+    "countryNameKo": "멕시코",
+    "alpha2": "MX",
+    "callingCode": "+52",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Micronesia",
+    "countryNameKo": "미크로네시아",
+    "alpha2": "FM",
+    "callingCode": "+691",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Moldova",
+    "countryNameKo": "몰도바",
+    "alpha2": "MD",
+    "callingCode": "+373",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Monaco",
+    "countryNameKo": "모나코",
+    "alpha2": "MC",
+    "callingCode": "+377",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Mongolia",
+    "countryNameKo": "몽골",
+    "alpha2": "MN",
+    "callingCode": "+976",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Montenegro",
+    "countryNameKo": "몬테네그로",
+    "alpha2": "ME",
+    "callingCode": "+382",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Montserrat",
+    "countryNameKo": "몬트세랫",
+    "alpha2": "MS",
+    "callingCode": "+1-664",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Morocco",
+    "countryNameKo": "모로코",
+    "alpha2": "MA",
+    "callingCode": "+212",
+    "zone": 2,
+    "sharedWith": ["EH"]
+  },
+  {
+    "countryNameEn": "Mozambique",
+    "countryNameKo": "모잠비크",
+    "alpha2": "MZ",
+    "callingCode": "+258",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Myanmar",
+    "countryNameKo": "미얀마",
+    "alpha2": "MM",
+    "callingCode": "+95",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Namibia",
+    "countryNameKo": "나미비아",
+    "alpha2": "NA",
+    "callingCode": "+264",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Nauru",
+    "countryNameKo": "나우루",
+    "alpha2": "NR",
+    "callingCode": "+674",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Nepal",
+    "countryNameKo": "네팔",
+    "alpha2": "NP",
+    "callingCode": "+977",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Netherlands",
+    "countryNameKo": "네덜란드",
+    "alpha2": "NL",
+    "callingCode": "+31",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "New Caledonia",
+    "countryNameKo": "뉴칼레도니아",
+    "alpha2": "NC",
+    "callingCode": "+687",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "New Zealand",
+    "countryNameKo": "뉴질랜드",
+    "alpha2": "NZ",
+    "callingCode": "+64",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Nicaragua",
+    "countryNameKo": "니카라과",
+    "alpha2": "NI",
+    "callingCode": "+505",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Niger",
+    "countryNameKo": "니제르",
+    "alpha2": "NE",
+    "callingCode": "+227",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Nigeria",
+    "countryNameKo": "나이지리아",
+    "alpha2": "NG",
+    "callingCode": "+234",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Niue",
+    "countryNameKo": "니우에",
+    "alpha2": "NU",
+    "callingCode": "+683",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Norfolk Island",
+    "countryNameKo": "노퍽섬",
+    "alpha2": "NF",
+    "callingCode": "+672",
+    "zone": 6,
+    "sharedWith": ["AQ"]
+  },
+  {
+    "countryNameEn": "North Macedonia",
+    "countryNameKo": "북마케도니아",
+    "alpha2": "MK",
+    "callingCode": "+389",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Northern Mariana Islands",
+    "countryNameKo": "북마리아나 제도",
+    "alpha2": "MP",
+    "callingCode": "+1-670",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Norway",
+    "countryNameKo": "노르웨이",
+    "alpha2": "NO",
+    "callingCode": "+47",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Oman",
+    "countryNameKo": "오만",
+    "alpha2": "OM",
+    "callingCode": "+968",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Pakistan",
+    "countryNameKo": "파키스탄",
+    "alpha2": "PK",
+    "callingCode": "+92",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Palau",
+    "countryNameKo": "팔라우",
+    "alpha2": "PW",
+    "callingCode": "+680",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Palestine",
+    "countryNameKo": "팔레스타인",
+    "alpha2": "PS",
+    "callingCode": "+970",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Panama",
+    "countryNameKo": "파나마",
+    "alpha2": "PA",
+    "callingCode": "+507",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Papua New Guinea",
+    "countryNameKo": "파푸아 뉴기니",
+    "alpha2": "PG",
+    "callingCode": "+675",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Paraguay",
+    "countryNameKo": "파라과이",
+    "alpha2": "PY",
+    "callingCode": "+595",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Peru",
+    "countryNameKo": "페루",
+    "alpha2": "PE",
+    "callingCode": "+51",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Philippines",
+    "countryNameKo": "필리핀",
+    "alpha2": "PH",
+    "callingCode": "+63",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Poland",
+    "countryNameKo": "폴란드",
+    "alpha2": "PL",
+    "callingCode": "+48",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Portugal",
+    "countryNameKo": "포르투갈",
+    "alpha2": "PT",
+    "callingCode": "+351",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Puerto Rico",
+    "countryNameKo": "푸에르토리코",
+    "alpha2": "PR",
+    "callingCode": "+1-787",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP; also +1-939"
+  },
+  {
+    "countryNameEn": "Qatar",
+    "countryNameKo": "카타르",
+    "alpha2": "QA",
+    "callingCode": "+974",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Réunion",
+    "countryNameKo": "레위니옹",
+    "alpha2": "RE",
+    "callingCode": "+262",
+    "zone": 2,
+    "sharedWith": ["YT"]
+  },
+  {
+    "countryNameEn": "Romania",
+    "countryNameKo": "루마니아",
+    "alpha2": "RO",
+    "callingCode": "+40",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Russia",
+    "countryNameKo": "러시아",
+    "alpha2": "RU",
+    "callingCode": "+7",
+    "zone": 7,
+    "sharedWith": ["KZ"]
+  },
+  {
+    "countryNameEn": "Rwanda",
+    "countryNameKo": "르완다",
+    "alpha2": "RW",
+    "callingCode": "+250",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Saint Barthélemy",
+    "countryNameKo": "생바르텔레미",
+    "alpha2": "BL",
+    "callingCode": "+590",
+    "zone": 5,
+    "sharedWith": ["GP", "MF"]
+  },
+  {
+    "countryNameEn": "Saint Helena",
+    "countryNameKo": "세인트헬레나",
+    "alpha2": "SH",
+    "callingCode": "+290",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Saint Kitts and Nevis",
+    "countryNameKo": "세인트키츠 네비스",
+    "alpha2": "KN",
+    "callingCode": "+1-869",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Saint Lucia",
+    "countryNameKo": "세인트루시아",
+    "alpha2": "LC",
+    "callingCode": "+1-758",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Saint Martin (French part)",
+    "countryNameKo": "생마르탱",
+    "alpha2": "MF",
+    "callingCode": "+590",
+    "zone": 5,
+    "sharedWith": ["GP", "BL"]
+  },
+  {
+    "countryNameEn": "Saint Pierre and Miquelon",
+    "countryNameKo": "생피에르 미클롱",
+    "alpha2": "PM",
+    "callingCode": "+508",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Saint Vincent and the Grenadines",
+    "countryNameKo": "세인트빈센트 그레나딘",
+    "alpha2": "VC",
+    "callingCode": "+1-784",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Samoa",
+    "countryNameKo": "사모아",
+    "alpha2": "WS",
+    "callingCode": "+685",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "San Marino",
+    "countryNameKo": "산마리노",
+    "alpha2": "SM",
+    "callingCode": "+378",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "São Tomé and Príncipe",
+    "countryNameKo": "상투메 프린시페",
+    "alpha2": "ST",
+    "callingCode": "+239",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Saudi Arabia",
+    "countryNameKo": "사우디아라비아",
+    "alpha2": "SA",
+    "callingCode": "+966",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Senegal",
+    "countryNameKo": "세네갈",
+    "alpha2": "SN",
+    "callingCode": "+221",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Serbia",
+    "countryNameKo": "세르비아",
+    "alpha2": "RS",
+    "callingCode": "+381",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Seychelles",
+    "countryNameKo": "세이셸",
+    "alpha2": "SC",
+    "callingCode": "+248",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Sierra Leone",
+    "countryNameKo": "시에라리온",
+    "alpha2": "SL",
+    "callingCode": "+232",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Singapore",
+    "countryNameKo": "싱가포르",
+    "alpha2": "SG",
+    "callingCode": "+65",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Sint Maarten (Dutch part)",
+    "countryNameKo": "신트마르턴",
+    "alpha2": "SX",
+    "callingCode": "+1-721",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Slovakia",
+    "countryNameKo": "슬로바키아",
+    "alpha2": "SK",
+    "callingCode": "+421",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Slovenia",
+    "countryNameKo": "슬로베니아",
+    "alpha2": "SI",
+    "callingCode": "+386",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Solomon Islands",
+    "countryNameKo": "솔로몬 제도",
+    "alpha2": "SB",
+    "callingCode": "+677",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Somalia",
+    "countryNameKo": "소말리아",
+    "alpha2": "SO",
+    "callingCode": "+252",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "South Africa",
+    "countryNameKo": "남아프리카 공화국",
+    "alpha2": "ZA",
+    "callingCode": "+27",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "South Georgia and South Sandwich Islands",
+    "countryNameKo": "사우스조지아 사우스샌드위치 제도",
+    "alpha2": "GS",
+    "callingCode": "+500",
+    "zone": 5,
+    "sharedWith": ["FK"]
+  },
+  {
+    "countryNameEn": "South Sudan",
+    "countryNameKo": "남수단",
+    "alpha2": "SS",
+    "callingCode": "+211",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Spain",
+    "countryNameKo": "스페인",
+    "alpha2": "ES",
+    "callingCode": "+34",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "Sri Lanka",
+    "countryNameKo": "스리랑카",
+    "alpha2": "LK",
+    "callingCode": "+94",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Sudan",
+    "countryNameKo": "수단",
+    "alpha2": "SD",
+    "callingCode": "+249",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Suriname",
+    "countryNameKo": "수리남",
+    "alpha2": "SR",
+    "callingCode": "+597",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Svalbard and Jan Mayen",
+    "countryNameKo": "스발바르 얀마옌",
+    "alpha2": "SJ",
+    "callingCode": "+47",
+    "zone": 4,
+    "sharedWith": ["NO"]
+  },
+  {
+    "countryNameEn": "Sweden",
+    "countryNameKo": "스웨덴",
+    "alpha2": "SE",
+    "callingCode": "+46",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Switzerland",
+    "countryNameKo": "스위스",
+    "alpha2": "CH",
+    "callingCode": "+41",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "Syria",
+    "countryNameKo": "시리아",
+    "alpha2": "SY",
+    "callingCode": "+963",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Taiwan",
+    "countryNameKo": "대만",
+    "alpha2": "TW",
+    "callingCode": "+886",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Tajikistan",
+    "countryNameKo": "타지키스탄",
+    "alpha2": "TJ",
+    "callingCode": "+992",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Tanzania",
+    "countryNameKo": "탄자니아",
+    "alpha2": "TZ",
+    "callingCode": "+255",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Thailand",
+    "countryNameKo": "태국",
+    "alpha2": "TH",
+    "callingCode": "+66",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Timor-Leste",
+    "countryNameKo": "동티모르",
+    "alpha2": "TL",
+    "callingCode": "+670",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Togo",
+    "countryNameKo": "토고",
+    "alpha2": "TG",
+    "callingCode": "+228",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Tokelau",
+    "countryNameKo": "토켈라우",
+    "alpha2": "TK",
+    "callingCode": "+690",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Tonga",
+    "countryNameKo": "통가",
+    "alpha2": "TO",
+    "callingCode": "+676",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Trinidad and Tobago",
+    "countryNameKo": "트리니다드 토바고",
+    "alpha2": "TT",
+    "callingCode": "+1-868",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Tunisia",
+    "countryNameKo": "튀니지",
+    "alpha2": "TN",
+    "callingCode": "+216",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Turkey",
+    "countryNameKo": "튀르키예",
+    "alpha2": "TR",
+    "callingCode": "+90",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Turkmenistan",
+    "countryNameKo": "투르크메니스탄",
+    "alpha2": "TM",
+    "callingCode": "+993",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Turks and Caicos Islands",
+    "countryNameKo": "터크스 케이커스 제도",
+    "alpha2": "TC",
+    "callingCode": "+1-649",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Tuvalu",
+    "countryNameKo": "투발루",
+    "alpha2": "TV",
+    "callingCode": "+688",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Uganda",
+    "countryNameKo": "우간다",
+    "alpha2": "UG",
+    "callingCode": "+256",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Ukraine",
+    "countryNameKo": "우크라이나",
+    "alpha2": "UA",
+    "callingCode": "+380",
+    "zone": 3
+  },
+  {
+    "countryNameEn": "United Arab Emirates",
+    "countryNameKo": "아랍에미리트",
+    "alpha2": "AE",
+    "callingCode": "+971",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "United Kingdom",
+    "countryNameKo": "영국",
+    "alpha2": "GB",
+    "callingCode": "+44",
+    "zone": 4
+  },
+  {
+    "countryNameEn": "United States",
+    "countryNameKo": "미국",
+    "alpha2": "US",
+    "callingCode": "+1",
+    "zone": 1
+  },
+  {
+    "countryNameEn": "U.S. Virgin Islands",
+    "countryNameKo": "미국령 버진아일랜드",
+    "alpha2": "VI",
+    "callingCode": "+1-340",
+    "zone": 1,
+    "sharedWith": ["US", "CA"],
+    "notes": "NANP"
+  },
+  {
+    "countryNameEn": "Uruguay",
+    "countryNameKo": "우루과이",
+    "alpha2": "UY",
+    "callingCode": "+598",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Uzbekistan",
+    "countryNameKo": "우즈베키스탄",
+    "alpha2": "UZ",
+    "callingCode": "+998",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Vanuatu",
+    "countryNameKo": "바누아투",
+    "alpha2": "VU",
+    "callingCode": "+678",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Vatican City",
+    "countryNameKo": "바티칸 시국",
+    "alpha2": "VA",
+    "callingCode": "+39",
+    "zone": 3,
+    "sharedWith": ["IT"],
+    "notes": "Also has +379"
+  },
+  {
+    "countryNameEn": "Venezuela",
+    "countryNameKo": "베네수엘라",
+    "alpha2": "VE",
+    "callingCode": "+58",
+    "zone": 5
+  },
+  {
+    "countryNameEn": "Vietnam",
+    "countryNameKo": "베트남",
+    "alpha2": "VN",
+    "callingCode": "+84",
+    "zone": 8
+  },
+  {
+    "countryNameEn": "Wallis and Futuna",
+    "countryNameKo": "왈리스 퓌튀나",
+    "alpha2": "WF",
+    "callingCode": "+681",
+    "zone": 6
+  },
+  {
+    "countryNameEn": "Western Sahara",
+    "countryNameKo": "서사하라",
+    "alpha2": "EH",
+    "callingCode": "+212",
+    "zone": 2,
+    "sharedWith": ["MA"]
+  },
+  {
+    "countryNameEn": "Yemen",
+    "countryNameKo": "예멘",
+    "alpha2": "YE",
+    "callingCode": "+967",
+    "zone": 9
+  },
+  {
+    "countryNameEn": "Zambia",
+    "countryNameKo": "잠비아",
+    "alpha2": "ZM",
+    "callingCode": "+260",
+    "zone": 2
+  },
+  {
+    "countryNameEn": "Zimbabwe",
+    "countryNameKo": "짐바브웨",
+    "alpha2": "ZW",
+    "callingCode": "+263",
+    "zone": 2
+  }
+]

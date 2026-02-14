@@ -15,12 +15,15 @@ The plugin follows the Claude Code plugin structure (`.claude-plugin/plugin.json
 ### Skills (Auto-invoked by Claude)
 - **coding-convention** (`skills/coding-convention/SKILL.md`): Automatically applies language-specific conventions when writing/editing `.java`, `.ts`, `.tsx`, `.py` files. References detailed convention docs in the same directory.
 - **data-standard** (`skills/data-standard/SKILL.md`): Automatically applies standard terminology when writing DB-related code (entities, SQL, DTOs, migrations, schemas).
+- **international-code** (`skills/international-code/SKILL.md`): Automatically applies ISO 3166-1/3166-2 and ITU-T E.164 standards when implementing phone number inputs, country/region selectors, and address forms. References international-code-reference.md for detailed patterns.
 
 ### Commands (User-invoked via `/standard-enforcer:<command>`)
 - `check-convention` — Scan files for coding convention violations
 - `check-naming` — Validate DB naming against standard terminology
 - `lookup-term` — Look up a Korean term's standard English abbreviation, domain, and data type
 - `generate-entity` — Generate standards-compliant entity code from Korean table/column definitions
+- `lookup-code` — Look up ISO country codes, region codes, and international calling codes
+- `generate-intl-component` — Generate country selector, region selector, phone input, and address form components
 
 ### Agents (Subagents for deep analysis)
 - **convention-checker** (`agents/convention-checker.md`): Deep convention inspection with confidence-based filtering
@@ -37,6 +40,9 @@ Both scripts exit 0 (non-blocking) and output warnings to Claude's context.
 - `standard_terms.json` (13,176 records) — Standard terms with Korean names, English abbreviations, domains
 - `standard_words.json` (3,284 records) — Standard words with abbreviations, forbidden words, synonyms
 - `standard_domains.json` (123 records) — Domain definitions with type codes, lengths, decimal places
+- `iso_3166_1_countries.json` (249 records) — ISO 3166-1 country codes (alpha-2, alpha-3, numeric, Korean/English names)
+- `iso_3166_2_regions.json` (21 countries, 653 subdivisions) — ISO 3166-2 region/subdivision codes
+- `country_calling_codes.json` (245 records) — ITU-T E.164 international calling codes
 
 ## Key Conventions
 
@@ -44,6 +50,12 @@ Both scripts exit 0 (non-blocking) and output warnings to Claude's context.
 - Column names use standard abbreviations: 고객명 → `CSTMR_NM`, 가입일자 → `JOIN_YMD`
 - Suffix patterns: `_YMD` (date), `_DT` (datetime), `_AMT` (amount), `_NM` (name), `_CD` (code), `_NO` (number), `_YN` (boolean Y/N), `_CN` (content)
 - Table prefixes: `TB_` (general), `TC_` (code), `TH_` (history), `TL_` (log), `TR_` (relation)
+
+### International Code Standards
+- Country identification: ISO 3166-1 alpha-2 codes (`KR`, `US`, `JP`) — stored as CHAR(2) `NATN_CD`
+- Region/subdivision: ISO 3166-2 codes (`KR-11`, `US-CA`) — stored as VARCHAR(6) `RGN_CD`
+- Phone numbers: E.164 format (`+821012345678`) — stored as VARCHAR(15) `INTL_TELNO`
+- Country selector data from `iso_3166_1_countries.json`, region selector from `iso_3166_2_regions.json`, calling codes from `country_calling_codes.json`
 
 ### Coding Conventions by Language
 - **Java**: Google Java Style (2-space indent, 100-char line, K&R braces, no wildcard imports)
@@ -56,6 +68,7 @@ Both scripts exit 0 (non-blocking) and output warnings to Claude's context.
 Code write/edit request
   → coding-convention skill (auto, for any .java/.ts/.py)
   → data-standard skill (auto, for DB-related files)
+  → international-code skill (auto, for phone/country/region components)
   → Write/Edit tool execution
   → PostToolUse hooks (auto)
       → check-forbidden-words.sh (금칙어 scan)
@@ -73,6 +86,8 @@ claude --plugin-dir ./standard-enforcer
 /standard-enforcer:check-convention src/main/java/Customer.java
 /standard-enforcer:check-naming src/main/java/entity/
 /standard-enforcer:generate-entity "고객: 고객명, 가입일자, 이메일주소"
+/standard-enforcer:lookup-code 대한민국
+/standard-enforcer:generate-intl-component "전화번호 입력 (국가번호 포함)"
 
 # Debug mode
 claude --debug
