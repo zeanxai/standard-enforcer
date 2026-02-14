@@ -1,0 +1,24 @@
+{
+  "description": "코딩 컨벤션 및 표준 용어 자동 검사 훅",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/check-forbidden-words.sh",
+            "timeout": 30,
+            "statusMessage": "금칙어 검사 중..."
+          },
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/validate-naming.sh",
+            "timeout": 30,
+            "statusMessage": "네이밍 규칙 검사 중..."
+          }
+        ]
+      }
+    ]
+  }
+}
