@@ -181,7 +181,7 @@ All enforcement happens transparently — no manual steps required. Simply write
 
 ## Author
 
-**Zeans** — zeans@rudasoft.com
+**Zeans** — zeans@astravision.co.kr
 
 ## License
 
